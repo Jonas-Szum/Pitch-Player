@@ -1,6 +1,6 @@
 actual classes found in prog2/src/prog2
 images found in prog2/src
-This was made using eclipse, and should work if you put the prog2 folder (the one that I turned in) in your
+This was made using eclipse, and should work if you put the prog2 folder in your
 eclipse-workspace folder
 
 
