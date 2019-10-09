@@ -25,10 +25,7 @@ the screen is only ever updated when the user has an option to play a card or ma
 cards are being played, the user will be able to see the cards that were already played by the bots before him/her.
 When he/she sees the cards, the only option will be to play a card.
 
-Also, I may or may not have added a bar to show who won the bid. I don't think that's very necessary, because
-the user will be able to tell who won the bid based on who played their cards (if bot 1 won, there will be
-three turns taken before you. if it's bot two, two cards will be played before you, etc). I have also added
-some System.out.println statements that help the game go along, if you want to read the raw stats of the game
-vs using the interface. It's like using the strategic view in CIV 5. Update: I have not
+I have also added some System.out.println statements that help the game go along, if you want to read the raw stats of the game
+vs using the interface. It's like using the strategic view in CIV 5.
 
 Enjoy the game! have fun playing against Hummel, Hallenbeck MK. II, and Theys. 
